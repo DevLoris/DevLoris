@@ -2,6 +2,8 @@
 
 Je suis en train de travailler sur ce readme, on verra quand je le complèterais 
 
+(update : on est en mi-2021, je l'ai toujours pas fait)
+
 <!--
 **DevLoris/DevLoris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
