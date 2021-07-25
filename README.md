@@ -1,20 +1,11 @@
-# Coucou 👋
+# Moi, Loris
 
-Je suis en train de travailler sur ce readme, on verra quand je le complèterais 
+Je suis développeur full-stack, avec un grand amour du front-end. J'adore donner du mouvement aux choses, donner de la vie, dans les moindre petits détails.
 
-(update : on est en mi-2021, je l'ai toujours pas fait)
+Fan de Pokémon, j'ai aidé des projets communautaires en rapport, et forgé les miens.
 
-<!--
-**DevLoris/DevLoris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis diplômé du Master Design & Management de l'Innovation Intéractif de l'école des Gobelins, spécialité développeur. Pendant ce cursus, j'ai été en alternance à Maison du Net, une agence web basée à Annecy.
 
-Here are some ideas to get you started:
+Je suis disponible pour du développement web en freelance, que ce soit du front ou du back !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Me trouver
