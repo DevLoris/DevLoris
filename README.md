@@ -10,6 +10,4 @@
 
 ## Me trouver
 
-🎥 En stream sur Twitch (EpicLoris)
-
 🗺️ Mon portfolio : https://lorispinna.com
